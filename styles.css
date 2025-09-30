@@ -50,6 +50,7 @@ h1{
     background-color:black;
     width:100px ;
     height:50px ;
+    position:absolute;
 }
 .octava {
     background-color:maroon;
@@ -57,4 +58,67 @@ h1{
     height: 50px ;
     margin-left: 100px;
     position: absolute;
+}
+.novena {
+    background-color:darkorchid;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+.décima {
+    background-color: darkblue;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+.undécima {
+    background-color: greenyellow;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    position: absolute;
+}
+.duodécima {
+    background-color: cadetblue;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+.décimotercera {
+    background-color: fuchsia;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+.décimocuarta {
+   background-color: salmon; 
+   width: 100px;
+   height: 50px;
+   margin-left: 100px;
+   position: absolute;
+}
+.décimoquinta {
+    background-color: goldenrod;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+.décimosexta {
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+.décimoséptima {
+    background-color: darkred;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    position: absolute;
+}
+.décimooctava {
+    background-color: purple;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
 }
