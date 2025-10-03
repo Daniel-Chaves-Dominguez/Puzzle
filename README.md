@@ -30,7 +30,35 @@ Lista ordenada:
     * sub lista
 2. Elemento
 
-[ ]
+[ ] Texto sin marcar
 
 
-[x]
+[x] Texto sin marcar 
+
+| Header Uno | Header Dos |
+| ---------- | ---------- |
+| Contenido celda 1 x 1 | Contenido celda 1 x 2 |
+| Contenido celda 2 x 1 | Contenido celda 2 x 2 |
+
+Ejemplo de enlace
+
+[Lipsum](https://www.lipsum.com/)
+
+<https://es.lipsum.com/>![imagen lobo2](https://github.com/user-attachments/assets/92e9e3a4-5864-4c67-8e93-f2d24f868c5e)
+
+
+<img src="https://github.com/user-attachments/assets/92e9e3a4-5864-4c67-8e93-f2d24f868c5e" width = "100">
+
+```bash
+   npm install
+```
+
+```javascript
+   function decirHola() {
+    console.log('Hola');
+    }
+```
+
+
+` `template literals
+
